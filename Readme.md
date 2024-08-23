@@ -1,0 +1,1 @@
+![output of the following code](image.png)
